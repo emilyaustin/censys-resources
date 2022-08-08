@@ -2,7 +2,7 @@
 
 Head to [Censys Search](https://search.censys.io) to try out some of the searches below. 
 
-We provide 10 free queries a day to unregistered users. Register for a free account and get 250 queries per month, along with API access.
+We provide 10 free queries a day to unregistered users. [Register for a free account](https://censys.io/register) and get 250 queries per month, along with API access.
 
 
 ## Search Snippets 🔎
