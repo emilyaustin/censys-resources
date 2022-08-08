@@ -24,6 +24,7 @@ Hacked MikroTik routers: \
 Internet-exposed printers: \
 `"@PJL INFO STATUS CODE=10001" and "ONLINE=TRUE"`
 
+[Additional sample queries](https://search.censys.io/search/examples?resource=hosts) 
 
 
 ## Threat Hunting / Investigative Blogs 🕵️
